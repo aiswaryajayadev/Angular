@@ -1,0 +1,30 @@
+
+// button {
+
+//   padding:20px;
+//   box-sizing: border-box;
+//   background-color: rgb(247, 9, 128);
+//   border: none;
+//   border-right:5px solid aquamarine ;
+//   height: 70px;  
+//   color: #FFFFFF;
+//   clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%, 0 90%);
+ 
+  
+// }
+
+// img{
+//    width: 25%;
+//    height: 25%;
+// }
+.c-container {
+  
+  display: flex;
+  overflow-x: auto;
+}
+.card-carousel {
+  display: flex;
+  height: 50rem;
+
+}
+
